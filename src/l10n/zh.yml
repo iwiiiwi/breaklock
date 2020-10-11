@@ -1,0 +1,58 @@
+airport_charlist: abcdefghijklmnopqrstuvwxyz0123456789 _*%!?#/\\|@
+attribution: by <a href="https://twitter.com/mxwllt"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-maxwellito"></use></svg></a> / on <a href="https://github.com/maxwellito/breaklock"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-github"></use></svg></a>
+button_abort: 放弃
+button_easy: 简单
+button_hard: 困难
+button_instructions: 说明
+button_medium: 中等
+button_start: 开始
+connect_first: 链接
+connect_second: 点
+description: 类似安卓解锁的游戏，你会喜欢它的.
+description_black: 一个点
+description_difficulty: 难度设置.简单是四个点, 中等是五个点 困难是六个点
+description_game: 根据出现的点数去推断可能的解锁姿势. 当你尝试之后会告诉你对了几个点
+description_white: 会告诉你对了几个点
+feedback_success_first: 解锁成功
+feedback_success_second: 尝试.
+feedback_fail: 不好意思，你没有在规定的时间内解锁成功
+label_success: 解锁成功！
+label_fail: 解锁失败！
+label_goodluck: 干的漂亮！
+lang_code: zh
+mode_challenge: 挑战
+mode_challenge_description: Challenge mode give you 10 attempts only to win
+mode_countdown: Countdown
+mode_countdown_description: Solve the game in one minute, without limit of attempts
+mode_practice: Practice
+mode_practice_description: No pressure, just discover and practice your game
+name_app: BreakLock
+quote_success00: That was pure luck, nothing else. Stop dreamin.
+quote_success01: You got lucky, without staying up all night.
+quote_success02: No merit. Absolutely none.
+quote_success03: That was given on a golden plate.
+quote_success04: Absolutely no synapse got used during that game.
+quote_success05: Don\'t even dare to tweet your score.
+quote_success06: Saperlipopette!! That was close.
+quote_success07: Seems legit, with a bit of luck.
+quote_success08: Pretty good!
+quote_success09: But you made it!
+quote_success10: Trying random patterns is not a strategy...
+quote_success11: That was looooooooong.
+quote_success12: At least you made it.
+quote_success13: You must hate this game by now.
+quote_success14: I hope you didn\'t cheat.
+quote_success15: Your dedication is impressive.
+quote_success16: Logic not found.
+quote_success17: No comment
+quote_fail00: I believe there\'s some work to do.
+quote_fail01: Do you understand the game? Don\'t take it personnaly, I struggle to explain it.
+quote_fail02: One day you will make it...
+quote_fail03: It\'s not funny for you, but it is for me ;)
+quote_fail04: Don\'t stress, you will make it.
+quote_fail05: If you want to avoid battles, stay out of the grassy areas!
+quote_fail06: Even if you loose in battle, if you surpass what you\'ve done before, you have bested yourself.
+quote_fail07: TILT! Insert coin and try again
+special_css: <style></style>
+summary_see: Continue to see the solution.
+tweet_feedback: Tweet me your feedback at
